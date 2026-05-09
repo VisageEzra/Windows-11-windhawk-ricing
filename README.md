@@ -2,7 +2,7 @@
 
 This repository is a backup of my personal Windows 11 configuration. The goal of this setup is stripping away the "Windows bloat" and building a keyboard-centric environment that removes non-essential-ness out of the way until I need it. 
 
-I believe a workspace should be organized and efficient. If an element doesn't serve a mechanical purpose, I hide it.
+I believe a workspace should be organised and efficient. If an element doesn't serve a mechanical purpose, I hide it.
 
 ---
 
@@ -35,7 +35,7 @@ I prefer keeping my hands on the keyboard as much as possible.
 Windows has some native quirks that I’ve used **Windhawk** to resolve:
 
 *   **Taskbar Order**: In stock Windows, apps will rearrange themselves when you switch virtual desktops. I use a mod to ensure they remember their latest locations.
-*   **Centered Action Center**: When I hit `Win + A`, the menu now pops up in the center of the screen instead of the corner.
+*   **Centred Action Center**: When I hit `Win + A`, the menu now pops up in the centre of the screen instead of the corner.
 
 ---
 
