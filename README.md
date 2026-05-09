@@ -1,11 +1,8 @@
-#!/bin/bash
-
-cat << 'EOF' > README.md
 # Windows 11: My take on "Ricing"
 
 This repository is a backup of my personal Windows 11 configuration. The goal of this setup is stripping away the "Windows bloat" and building a keyboard-centric environment that removes non-essential-ness out of the way until I need it. 
 
-I believe a workspace should be organised and efficient. If an element doesn't serve a mechanical purpose, I hide it.
+I believe a workspace should be organized and efficient. If an element doesn't serve a mechanical purpose, I hide it.
 
 ---
 
@@ -24,7 +21,7 @@ I believe a workspace should be organised and efficient. If an element doesn't s
 I prefer keeping my hands on the keyboard as much as possible.
 
 *   **Numbered Taskbar**: Apps are numbered so I can jump between them instantly using `Win + [Number]`.
-*   **Desktop Indicators**: Those small dots on the far right act as workspace indicators. I use multiple desktops to stay organised without having to `Alt + Tab` through twenty windows on a single screen.
+*   **Desktop Indicators**: Those small dots on the far right act as workspace indicators. I use multiple desktops to stay organized without having to `Alt + Tab` through twenty windows on a single screen.
 *   **Window Management**:
     *   `Win + Q` and `Win + S` are turned off. 
     *   `Win + Q` has been rebound to **ALT + F4** using external application(s). 
@@ -38,7 +35,7 @@ I prefer keeping my hands on the keyboard as much as possible.
 Windows has some native quirks that I’ve used **Windhawk** to resolve:
 
 *   **Taskbar Order**: In stock Windows, apps will rearrange themselves when you switch virtual desktops. I use a mod to ensure they remember their latest locations.
-*   **Centred Action Centre**: When I hit `Win + A`, the menu now pops up in the centre of the screen instead of the corner.
+*   **Centered Action Center**: When I hit `Win + A`, the menu now pops up in the center of the screen instead of the corner.
 
 ---
 
@@ -57,4 +54,3 @@ Windows has some native quirks that I’ve used **Windhawk** to resolve:
 2.  Make sure **JetBrains Mono** is installed.
 3.  Import the `.reg` file or copy the JSON from `custom_windows_taskbar.json` into the **Taskbar Styler** advanced settings.
 4.  Set the File Explorer font to **JetBrains Mono**.
-EOF# Windows-11-windhawk-ricing
