@@ -8,6 +8,8 @@ I believe a workspace should be organised and efficient. If an element doesn't s
 
 ## 🖥️ UI & Aesthetics
 
+![Desktop Preview](assets/taskbar.png)
+
 *   **Segmented Floating Taskbar**: Instead of a solid bar, each icon lives in its own floating black box. It’s physically separated from the system tray to create a cleaner, modular look.
 *   **The "Start-less" Workflow**: I’ve hidden the Windows Start button. If the only point is to search for apps, a dedicated button is just wasted space.
 *   **Custom Typography**: I changed the File Explorer font to **JetBrains Mono**. It’s much cleaner than the stock Windows fonts and fits a developer-focused aesthetic.
@@ -21,7 +23,7 @@ I believe a workspace should be organised and efficient. If an element doesn't s
 I prefer keeping my hands on the keyboard as much as possible.
 
 *   **Numbered Taskbar**: Apps are numbered so I can jump between them instantly using `Win + [Number]`.
-*   **Desktop Indicators**: Those small dots on the far right act as workspace indicators. I use multiple desktops to stay organized without having to `Alt + Tab` through twenty windows on a single screen.
+*   **Desktop Indicators**: Those small dots on the far right act as workspace indicators. I use multiple desktops to stay organised without having to `Alt + Tab` through twenty windows on a single screen.
 *   **Window Management**:
     *   `Win + Q` and `Win + S` are turned off. 
     *   `Win + Q` has been rebound to **ALT + F4** using external application(s). 
